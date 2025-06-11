@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Dione Wisley Monte!
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dione-wisley-55a372236)](https://www.linkedin.com/in/dione-wisley-55a372236)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wisley.3@gmail.com)](mailto:wisley.3@gmail.com)
 
